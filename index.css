@@ -1,0 +1,14 @@
+
+ #perfil{
+    border-radius: 50%;
+ }
+ 
+ body {
+   background-image: url("https://jessicaroots.com/wp-content/uploads/2018/03/portfolio-background-header.jpg");
+
+ }
+
+ .foto-3x4 {
+   margin: 0 auto;
+   width: 200px;
+ }
