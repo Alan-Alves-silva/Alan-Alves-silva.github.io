@@ -4,11 +4,26 @@
  }
  
  body {
-   background-image: url("https://jessicaroots.com/wp-content/uploads/2018/03/portfolio-background-header.jpg");
-
+  background-image: url("https://jessicaroots.com/wp-content/uploads/2018/03/portfolio-background-header.jpg");
+  text-align: center;
  }
 
  .foto-3x4 {
    margin: 0 auto;
    width: 200px;
+ }
+
+ ul {
+  font-size: 25px;
+  color: white;
+  width: 450px;
+  height: auto;
+  margin: 60px auto;
+  padding: 5px;
+ }
+
+ section {
+  color: white;
+  font-size: 25px;
+  colo
  }
